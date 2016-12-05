@@ -1,6 +1,6 @@
 ### What Chicago Neighborhoods have the highest density of families with children
 
-The raw data behind the Curious City story [Most Kids On the Block: Searching for Chicago’s Family-Packed Neighborhoods](https://www.wbez.org/shows/curious-city/searching-for-chicagos-most-familypacked-neighborhoods/2b8c56be-fdfc-4a52-9975-c1d7b40d50d2
+The raw data behind the Curious City story [Most Kids On the Block: Searching for Chicago’s Family-Packed Neighborhoods](https://www.wbez.org/shows/curious-city/searching-for-chicagos-most-familypacked-neighborhoods/2b8c56be-fdfc-4a52-9975-c1d7b40d50d2)
 
 Header | Definition
 ---|---------
